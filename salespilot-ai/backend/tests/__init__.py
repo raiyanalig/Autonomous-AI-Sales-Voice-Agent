@@ -1,1 +1,1 @@
-"""Automated tests for the SalesPilot AI backend."""
+"""Test suite for the SalesPilot AI backend."""
